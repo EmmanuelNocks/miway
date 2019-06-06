@@ -1,5 +1,5 @@
 # miway
-test
+
 I have choosen day 6 and day 16 task
  They are all developed in PHP
 
